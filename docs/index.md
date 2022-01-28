@@ -1,17 +1,14 @@
 ---
 layout: detail
-title: Getting page
-description: Getting page description
+title: Getting started with Orange Design System for iOS
+description: How to use...
 ---
 
 
-# Getting started with Design System for iOS
+### Swift Package Manager
 
+to be completed 
 
-**Contents**
+### Build 
 
-*   [Part 1](#part-1)
-*   [Part 2](#part-2)
-
-## Part 1
-## Part 2
+to be completed

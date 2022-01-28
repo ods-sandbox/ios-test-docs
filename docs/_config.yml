@@ -1,10 +1,12 @@
 
 # Build settings
 # theme: minima
+url: ods-sandbox.github.io
+baseurl: /ios-test-docs
 relative_links:
   enabled: true
   collections: true
-remote_theme: ods-sandbox/ods-jekyll-theme
+remote_theme: Orange-OpenSource/ods-jekyll-theme
 plugins:
   - jekyll-feed
   - jekyll-relative-links
